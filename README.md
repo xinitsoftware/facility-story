@@ -3,3 +3,7 @@ This is an archive of my first game project in the Godot engine. The builds were
 
 ## Controls
 Z to interact, WASD to move.
+
+## Compilation Guide
+Will only work with Godot Version v4.5, import and compile the game as usual.
+You do not need any dependencies.
